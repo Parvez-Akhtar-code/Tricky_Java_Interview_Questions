@@ -1,6 +1,6 @@
 package QuesAndAns;
 
-public class Q8_OccurenceOfCharacterInString {
+public class Q8P1_OccurenceOfCharacterInString {
     public static void main(String[] args) {
         String str = "I love coding and testing";
         GetCharOccurence(str,'g');
